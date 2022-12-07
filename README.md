@@ -1,2 +1,4 @@
 # JavaMain
-[![JavaMain](https://img.youtube.com/vi/SBd94e-EIdk&t/0.jpg)](https://www.youtube.com/watch?v=SBd94e-EIdk&t)
+Burada yayınladığım kodların video çözümlerine aşağıdaki linkten ulaşabilirsiniz. 3 videoluk bir seri oldu detaylı olarak anlatmak istedim.
+
+https://www.youtube.com/watch?v=SBd94e-EIdk&list=PLMgzLKayzaXTaS7TV6HSQTb9YDME7dsAU&ab_channel=Bar%C4%B1%C5%9FKaya
